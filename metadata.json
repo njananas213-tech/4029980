@@ -1,0 +1,6 @@
+{
+  "name": "Digital Birthday Card",
+  "description": "An ultra-premium digital birthday greeting card with luxury Islamic elegance, cinematic camera movement, floating golden particles, glowing borders, and synthetic piano/instrumental nasheed music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
